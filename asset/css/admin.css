@@ -1,0 +1,23 @@
+.pumkin-get-all-post-types {
+  margin: 30px;
+}
+.pumkin-checkbox-title {
+  font-size: 17px;
+  color: black;
+  font-family: sans-serif;
+}
+.pumkin-checkbox-post-type{
+  margin-top: 15px;
+}
+.pumkin-settings-content-unselected{
+  margin-top: 15px;
+}
+.pumpkin-multiselect-posts {
+  display: none;
+}
+.pumpkin-multiselect-posts-selected {
+  display: block;
+}
+.pumkin-multiselect-post {
+ width: 400px;
+}
